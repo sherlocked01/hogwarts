@@ -1,0 +1,30 @@
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0 solid #eceff1;
+    border-radius: .25rem;
+}
+.card {
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 10%);
+    margin-bottom: 24px;
+}
+.ui{
+    justify-content: center;
+    align-items: center;
+}
+
+.ui[class*="four column"].grid > .column:not(.row), .ui[class*="four column"].grid > .row > .column {
+    width: 22%;
+    margin-top: 30px;
+}
+.ui.grid {
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}

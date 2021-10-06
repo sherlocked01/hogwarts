@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&display=swap');
+
+
+.ui.vertical.menu {
+    width: 15rem;
+    height: 49rem;
+}
+.ui.vertical.menu .item > .menu {
+    margin: .5em -1.14285714em 0;
+    display: grid;
+}
+.navP{
+    font-size: 35px;
+    margin-left: 35px;
+    color: black;
+    font-family: 'Scheherazade New', serif;
+}

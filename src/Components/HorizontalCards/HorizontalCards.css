@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+.img1{
+    width: 400px;
+    height: 260px;
+    align-items: center;
+}
+.content{
+    width: 65%;
+    font-family: 'Birthstone', cursive;
+
+}
+.content{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 45px;
+    font-size: 37px;
+    /* font-weight: bold; */
+
+}
+
