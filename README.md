@@ -1,3 +1,31 @@
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Components](#components)
+* [Website Link](#websitelink)
+# General info
+This is hogwarts' website that provide thier courses online to everybody, even muggles.
+# Technologies
+Project is created with:
+* React version: ^17.0.2
+* React-dom version: ^17.0.2
+* React-router-dom version: 5.3.0
+* Tachyons version: 4.12.0 
+# Components
+## Home - "/"
+This page contains the basic information about hogwarts, their different houses and activities. 
+## Academics - "/academics"
+This page contains the courses being taught, its application fees, last date to apply, number of seats left, information about the course, instructor and reviews from the pervious students.\
+\
+Astronomy - "/Astronomy"\
+Alchemy - "/Alchemy"\
+Ancient_Runes - "/Ancient_Runes"\
+Ancient_studies - "/Ancient_studies"\
+Charms - "/Charms"\
+Defence_against_dark_arts - "/Defence_against_dark_arts"
+## Library - "/library"
+This page contains the books from hogwarts library.
+## Link - https://hogwarts-pragmatic.herokuapp.com/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
